@@ -1,0 +1,5322 @@
+{
+    "1534636336_12853.jpg21288": {
+        "filename": "1534636336_12853.jpg",
+        "size": 21288,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        119,
+                        123,
+                        124,
+                        126,
+                        123,
+                        125,
+                        127,
+                        131,
+                        132,
+                        133,
+                        132,
+                        131,
+                        129,
+                        128,
+                        127,
+                        124,
+                        121,
+                        120,
+                        120,
+                        119,
+                        120
+                    ],
+                    "all_points_y": [
+                        122,
+                        122,
+                        121,
+                        121,
+                        129,
+                        133,
+                        136,
+                        137,
+                        136,
+                        129,
+                        125,
+                        122,
+                        122,
+                        120,
+                        119,
+                        117,
+                        117,
+                        117,
+                        118,
+                        120,
+                        121
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1542582748_11882.jpg59240": {
+        "filename": "1542582748_11882.jpg",
+        "size": 59240,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        82,
+                        82,
+                        212,
+                        208
+                    ],
+                    "all_points_y": [
+                        186,
+                        195,
+                        135,
+                        131
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        83,
+                        84,
+                        95,
+                        94
+                    ],
+                    "all_points_y": [
+                        148,
+                        155,
+                        150,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        96,
+                        97,
+                        204,
+                        219,
+                        215
+                    ],
+                    "all_points_y": [
+                        126,
+                        131,
+                        98,
+                        93,
+                        89
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        80,
+                        81,
+                        96,
+                        94
+                    ],
+                    "all_points_y": [
+                        134,
+                        144,
+                        142,
+                        130
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1544046026_2251.jpg60977": {
+        "filename": "1544046026_2251.jpg",
+        "size": 60977,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        77,
+                        95,
+                        117,
+                        137,
+                        153,
+                        170,
+                        172,
+                        162,
+                        122,
+                        97,
+                        86,
+                        78,
+                        75
+                    ],
+                    "all_points_y": [
+                        158,
+                        168,
+                        177,
+                        184,
+                        174,
+                        155,
+                        144,
+                        134,
+                        130,
+                        123,
+                        118,
+                        117,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        175,
+                        178,
+                        179,
+                        188,
+                        190,
+                        207,
+                        216,
+                        223,
+                        223,
+                        204,
+                        191,
+                        185
+                    ],
+                    "all_points_y": [
+                        121,
+                        122,
+                        116,
+                        117,
+                        122,
+                        119,
+                        132,
+                        142,
+                        144,
+                        130,
+                        135,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1545687376_7838.jpg34440": {
+        "filename": "1545687376_7838.jpg",
+        "size": 34440,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        97,
+                        119,
+                        139,
+                        161,
+                        172,
+                        180,
+                        189,
+                        194,
+                        177,
+                        170,
+                        158,
+                        145,
+                        119,
+                        111,
+                        100,
+                        87,
+                        94
+                    ],
+                    "all_points_y": [
+                        199,
+                        206,
+                        206,
+                        204,
+                        202,
+                        194,
+                        186,
+                        180,
+                        183,
+                        191,
+                        197,
+                        198,
+                        195,
+                        193,
+                        186,
+                        187,
+                        197
+                    ]
+                },
+                "region_attributes": {
+                    "names": "lastik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1546818782_1284.jpg22062": {
+        "filename": "1546818782_1284.jpg",
+        "size": 22062,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        74,
+                        61,
+                        63,
+                        81,
+                        112,
+                        125,
+                        127,
+                        132,
+                        142,
+                        146,
+                        152,
+                        156,
+                        161,
+                        163,
+                        167,
+                        171,
+                        173,
+                        152,
+                        143,
+                        116,
+                        104,
+                        97,
+                        84,
+                        80
+                    ],
+                    "all_points_y": [
+                        104,
+                        108,
+                        121,
+                        140,
+                        165,
+                        167,
+                        164,
+                        157,
+                        158,
+                        154,
+                        151,
+                        145,
+                        138,
+                        135,
+                        123,
+                        115,
+                        108,
+                        107,
+                        106,
+                        93,
+                        81,
+                        79,
+                        99,
+                        102
+                    ]
+                },
+                "region_attributes": {
+                    "names": "arka_far_hasar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1549286456_2128.jpg27746": {
+        "filename": "1549286456_2128.jpg",
+        "size": 27746,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        40,
+                        43,
+                        54,
+                        48
+                    ],
+                    "all_points_y": [
+                        140,
+                        147,
+                        144,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        57,
+                        65,
+                        68,
+                        84,
+                        87,
+                        82,
+                        79,
+                        76,
+                        69,
+                        58,
+                        56,
+                        62,
+                        64,
+                        62,
+                        60
+                    ],
+                    "all_points_y": [
+                        171,
+                        169,
+                        180,
+                        166,
+                        169,
+                        173,
+                        176,
+                        184,
+                        193,
+                        203,
+                        196,
+                        193,
+                        192,
+                        178,
+                        174
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        104,
+                        107,
+                        130,
+                        153,
+                        159,
+                        156,
+                        147
+                    ],
+                    "all_points_y": [
+                        145,
+                        148,
+                        129,
+                        103,
+                        96,
+                        93,
+                        102
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        89,
+                        93,
+                        99,
+                        96
+                    ],
+                    "all_points_y": [
+                        135,
+                        138,
+                        132,
+                        130
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        97,
+                        98,
+                        103,
+                        110,
+                        110,
+                        106,
+                        120,
+                        122,
+                        113
+                    ],
+                    "all_points_y": [
+                        163,
+                        170,
+                        168,
+                        167,
+                        158,
+                        159,
+                        149,
+                        144,
+                        148
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        114,
+                        116,
+                        166,
+                        162
+                    ],
+                    "all_points_y": [
+                        158,
+                        162,
+                        123,
+                        121
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        75,
+                        86,
+                        91,
+                        101,
+                        107,
+                        142,
+                        153,
+                        165,
+                        177,
+                        180,
+                        170,
+                        164,
+                        148
+                    ],
+                    "all_points_y": [
+                        49,
+                        118,
+                        125,
+                        126,
+                        127,
+                        103,
+                        89,
+                        84,
+                        76,
+                        63,
+                        48,
+                        41,
+                        30
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1549452398_6019.jpg61388": {
+        "filename": "1549452398_6019.jpg",
+        "size": 61388,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        61,
+                        172,
+                        172,
+                        155,
+                        145,
+                        141,
+                        101,
+                        84,
+                        64,
+                        59,
+                        60,
+                        57,
+                        56,
+                        58,
+                        59
+                    ],
+                    "all_points_y": [
+                        173,
+                        194,
+                        166,
+                        99,
+                        86,
+                        83,
+                        88,
+                        88,
+                        84,
+                        95,
+                        104,
+                        148,
+                        155,
+                        169,
+                        167
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1554333731_3113.jpg36523": {
+        "filename": "1554333731_3113.jpg",
+        "size": 36523,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        177,
+                        141,
+                        133,
+                        127,
+                        129,
+                        160,
+                        190,
+                        191,
+                        188,
+                        186,
+                        182,
+                        178
+                    ],
+                    "all_points_y": [
+                        49,
+                        107,
+                        121,
+                        134,
+                        140,
+                        107,
+                        78,
+                        73,
+                        66,
+                        58,
+                        54,
+                        49
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        121,
+                        126,
+                        128,
+                        127,
+                        126,
+                        126,
+                        126,
+                        126,
+                        111,
+                        103,
+                        101,
+                        101,
+                        103,
+                        104,
+                        105,
+                        105
+                    ],
+                    "all_points_y": [
+                        124,
+                        119,
+                        121,
+                        125,
+                        137,
+                        139,
+                        142,
+                        144,
+                        171,
+                        183,
+                        178,
+                        170,
+                        163,
+                        158,
+                        154,
+                        153
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1554969677_5794.jpg50841": {
+        "filename": "1554969677_5794.jpg",
+        "size": 50841,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        136,
+                        139,
+                        165,
+                        180,
+                        201,
+                        212,
+                        194,
+                        182,
+                        164,
+                        157,
+                        142,
+                        137
+                    ],
+                    "all_points_y": [
+                        123,
+                        134,
+                        134,
+                        134,
+                        126,
+                        122,
+                        116,
+                        115,
+                        112,
+                        113,
+                        119,
+                        120
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1557149806_3855.jpg32627": {
+        "filename": "1557149806_3855.jpg",
+        "size": 32627,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        77,
+                        98,
+                        125,
+                        135,
+                        169,
+                        176,
+                        187,
+                        208,
+                        215,
+                        219,
+                        219,
+                        203,
+                        201,
+                        194,
+                        192,
+                        169,
+                        157,
+                        156,
+                        151,
+                        148,
+                        132,
+                        130,
+                        121,
+                        112,
+                        103,
+                        101,
+                        98,
+                        91,
+                        85,
+                        77,
+                        73,
+                        80,
+                        82,
+                        84,
+                        84
+                    ],
+                    "all_points_y": [
+                        235,
+                        255,
+                        255,
+                        229,
+                        226,
+                        225,
+                        198,
+                        173,
+                        151,
+                        131,
+                        122,
+                        115,
+                        113,
+                        115,
+                        121,
+                        139,
+                        153,
+                        155,
+                        173,
+                        179,
+                        178,
+                        177,
+                        177,
+                        172,
+                        170,
+                        170,
+                        175,
+                        173,
+                        170,
+                        171,
+                        172,
+                        188,
+                        193,
+                        214,
+                        214
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1557711198_1626.jpg21677": {
+        "filename": "1557711198_1626.jpg",
+        "size": 21677,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        118,
+                        140,
+                        149,
+                        132,
+                        125,
+                        102
+                    ],
+                    "all_points_y": [
+                        122,
+                        118,
+                        142,
+                        152,
+                        152,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1569007683_13451.jpg14765": {
+        "filename": "1569007683_13451.jpg",
+        "size": 14765,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        88,
+                        57,
+                        50,
+                        48,
+                        46,
+                        46,
+                        64,
+                        100,
+                        122,
+                        144,
+                        163,
+                        179,
+                        187,
+                        199,
+                        208,
+                        210,
+                        211,
+                        210,
+                        210,
+                        208,
+                        205
+                    ],
+                    "all_points_y": [
+                        57,
+                        81,
+                        89,
+                        95,
+                        111,
+                        123,
+                        129,
+                        138,
+                        142,
+                        143,
+                        143,
+                        144,
+                        143,
+                        132,
+                        125,
+                        119,
+                        108,
+                        80,
+                        73,
+                        68,
+                        66
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1572215970_15488.jpg11247": {
+        "filename": "1572215970_15488.jpg",
+        "size": 11247,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        57,
+                        81,
+                        80,
+                        73,
+                        76,
+                        78,
+                        74,
+                        69,
+                        62,
+                        61
+                    ],
+                    "all_points_y": [
+                        109,
+                        103,
+                        113,
+                        118,
+                        130,
+                        151,
+                        163,
+                        175,
+                        177,
+                        170
+                    ]
+                },
+                "region_attributes": {
+                    "names": "astar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        64,
+                        75,
+                        77,
+                        65
+                    ],
+                    "all_points_y": [
+                        181,
+                        181,
+                        186,
+                        190
+                    ]
+                },
+                "region_attributes": {
+                    "names": "astar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        87,
+                        87,
+                        84,
+                        83,
+                        84,
+                        96,
+                        107,
+                        116,
+                        117,
+                        119,
+                        119,
+                        108,
+                        104,
+                        106,
+                        125,
+                        163,
+                        165,
+                        176,
+                        176,
+                        167,
+                        168,
+                        174,
+                        170,
+                        168,
+                        118,
+                        121,
+                        120,
+                        120,
+                        100,
+                        93,
+                        89
+                    ],
+                    "all_points_y": [
+                        105,
+                        111,
+                        113,
+                        124,
+                        134,
+                        145,
+                        145,
+                        141,
+                        147,
+                        152,
+                        160,
+                        165,
+                        173,
+                        175,
+                        168,
+                        153,
+                        131,
+                        128,
+                        121,
+                        117,
+                        99,
+                        88,
+                        83,
+                        63,
+                        71,
+                        87,
+                        97,
+                        106,
+                        108,
+                        103,
+                        104
+                    ]
+                },
+                "region_attributes": {
+                    "names": "astar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        45,
+                        77,
+                        82,
+                        93,
+                        73,
+                        48,
+                        42,
+                        38
+                    ],
+                    "all_points_y": [
+                        72,
+                        51,
+                        68,
+                        75,
+                        82,
+                        85,
+                        87,
+                        84
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kayip"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1572844457_7054.jpg34749": {
+        "filename": "1572844457_7054.jpg",
+        "size": 34749,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        66,
+                        93,
+                        101,
+                        105,
+                        117,
+                        158,
+                        224,
+                        255,
+                        255,
+                        100,
+                        69,
+                        64,
+                        65
+                    ],
+                    "all_points_y": [
+                        94,
+                        120,
+                        121,
+                        130,
+                        137,
+                        148,
+                        107,
+                        47,
+                        0,
+                        1,
+                        43,
+                        54,
+                        94
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        69,
+                        96,
+                        105,
+                        126,
+                        147,
+                        155,
+                        154,
+                        155,
+                        155,
+                        151,
+                        75,
+                        71,
+                        70
+                    ],
+                    "all_points_y": [
+                        100,
+                        122,
+                        133,
+                        146,
+                        150,
+                        150,
+                        160,
+                        181,
+                        196,
+                        201,
+                        145,
+                        124,
+                        119
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1579112455_887.jpg15279": {
+        "filename": "1579112455_887.jpg",
+        "size": 15279,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        114,
+                        194,
+                        187,
+                        185,
+                        170,
+                        153,
+                        109,
+                        119
+                    ],
+                    "all_points_y": [
+                        16,
+                        13,
+                        63,
+                        66,
+                        70,
+                        70,
+                        61,
+                        16
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        187,
+                        188,
+                        168,
+                        157,
+                        120,
+                        71,
+                        1,
+                        2,
+                        34,
+                        68,
+                        82
+                    ],
+                    "all_points_y": [
+                        73,
+                        80,
+                        91,
+                        100,
+                        142,
+                        166,
+                        110,
+                        86,
+                        69,
+                        58,
+                        56
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        85,
+                        131,
+                        162,
+                        160,
+                        157,
+                        153,
+                        146,
+                        135,
+                        120,
+                        99,
+                        81,
+                        80,
+                        80
+                    ],
+                    "all_points_y": [
+                        173,
+                        166,
+                        151,
+                        163,
+                        172,
+                        180,
+                        187,
+                        193,
+                        197,
+                        200,
+                        185,
+                        183,
+                        180
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        40,
+                        67,
+                        82,
+                        79,
+                        78,
+                        89,
+                        76,
+                        80,
+                        76,
+                        83,
+                        78,
+                        67,
+                        52,
+                        36,
+                        24,
+                        32
+                    ],
+                    "all_points_y": [
+                        152,
+                        167,
+                        168,
+                        180,
+                        184,
+                        196,
+                        199,
+                        204,
+                        213,
+                        229,
+                        237,
+                        231,
+                        221,
+                        185,
+                        176,
+                        150
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1582094547_1477.jpg35668": {
+        "filename": "1582094547_1477.jpg",
+        "size": 35668,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        67,
+                        133,
+                        214,
+                        191,
+                        174,
+                        166,
+                        154,
+                        142,
+                        124,
+                        114,
+                        103,
+                        97,
+                        83,
+                        81,
+                        80
+                    ],
+                    "all_points_y": [
+                        85,
+                        128,
+                        99,
+                        99,
+                        96,
+                        93,
+                        85,
+                        86,
+                        93,
+                        92,
+                        93,
+                        92,
+                        85,
+                        84,
+                        84
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1583548798_8348.jpg18710": {
+        "filename": "1583548798_8348.jpg",
+        "size": 18710,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        165,
+                        166,
+                        195,
+                        191,
+                        170
+                    ],
+                    "all_points_y": [
+                        128,
+                        133,
+                        134,
+                        128,
+                        127
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        99,
+                        118,
+                        130,
+                        123,
+                        115,
+                        102,
+                        80,
+                        80,
+                        88,
+                        88,
+                        92
+                    ],
+                    "all_points_y": [
+                        177,
+                        175,
+                        156,
+                        147,
+                        141,
+                        141,
+                        155,
+                        157,
+                        172,
+                        174,
+                        175
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        41,
+                        50,
+                        56,
+                        48,
+                        42,
+                        41
+                    ],
+                    "all_points_y": [
+                        162,
+                        183,
+                        181,
+                        159,
+                        157,
+                        161
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1587622585_6733.jpg10058": {
+        "filename": "1587622585_6733.jpg",
+        "size": 10058,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        156,
+                        175,
+                        180,
+                        183,
+                        182,
+                        181,
+                        166,
+                        157,
+                        155,
+                        149,
+                        138,
+                        149,
+                        149
+                    ],
+                    "all_points_y": [
+                        52,
+                        52,
+                        55,
+                        69,
+                        76,
+                        79,
+                        94,
+                        96,
+                        96,
+                        96,
+                        72,
+                        53,
+                        52
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        95,
+                        102,
+                        145,
+                        156,
+                        160,
+                        174,
+                        176,
+                        166,
+                        159,
+                        152,
+                        146,
+                        131,
+                        124,
+                        122,
+                        130,
+                        138,
+                        140,
+                        145,
+                        140,
+                        141,
+                        143,
+                        126,
+                        125
+                    ],
+                    "all_points_y": [
+                        129,
+                        139,
+                        122,
+                        107,
+                        97,
+                        88,
+                        86,
+                        73,
+                        79,
+                        81,
+                        79,
+                        79,
+                        90,
+                        104,
+                        102,
+                        89,
+                        88,
+                        88,
+                        94,
+                        99,
+                        100,
+                        114,
+                        115
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1594698973_1629.jpg21615": {
+        "filename": "1594698973_1629.jpg",
+        "size": 21615,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        131,
+                        148,
+                        152,
+                        144,
+                        137,
+                        132
+                    ],
+                    "all_points_y": [
+                        111,
+                        110,
+                        133,
+                        134,
+                        131,
+                        113
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1599940298_4032.jpg52713": {
+        "filename": "1599940298_4032.jpg",
+        "size": 52713,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        80,
+                        59,
+                        47,
+                        43,
+                        46,
+                        48,
+                        55,
+                        56,
+                        59,
+                        64,
+                        70,
+                        77,
+                        78,
+                        79,
+                        78,
+                        86,
+                        88,
+                        88,
+                        86
+                    ],
+                    "all_points_y": [
+                        99,
+                        102,
+                        111,
+                        125,
+                        131,
+                        132,
+                        147,
+                        150,
+                        152,
+                        156,
+                        155,
+                        153,
+                        152,
+                        149,
+                        122,
+                        114,
+                        113,
+                        111,
+                        105
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        171,
+                        152,
+                        153,
+                        157,
+                        159,
+                        164,
+                        170,
+                        174,
+                        180,
+                        180,
+                        192,
+                        206,
+                        215,
+                        217,
+                        217,
+                        226,
+                        243,
+                        223,
+                        198,
+                        175,
+                        170
+                    ],
+                    "all_points_y": [
+                        95,
+                        117,
+                        125,
+                        126,
+                        132,
+                        136,
+                        140,
+                        142,
+                        148,
+                        156,
+                        158,
+                        162,
+                        163,
+                        157,
+                        156,
+                        159,
+                        156,
+                        139,
+                        115,
+                        98,
+                        95
+                    ]
+                },
+                "region_attributes": {
+                    "names": "airbag"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1605873500_14602.jpg28674": {
+        "filename": "1605873500_14602.jpg",
+        "size": 28674,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        174,
+                        164,
+                        158,
+                        159,
+                        159,
+                        159,
+                        157,
+                        155,
+                        133,
+                        125,
+                        128,
+                        138,
+                        155,
+                        161,
+                        168,
+                        168,
+                        171
+                    ],
+                    "all_points_y": [
+                        114,
+                        120,
+                        126,
+                        132,
+                        142,
+                        147,
+                        154,
+                        159,
+                        172,
+                        177,
+                        185,
+                        183,
+                        178,
+                        172,
+                        166,
+                        159,
+                        149
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1607102819_1920.jpg52240": {
+        "filename": "1607102819_1920.jpg",
+        "size": 52240,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        111,
+                        166,
+                        240,
+                        208,
+                        183,
+                        159,
+                        151,
+                        133,
+                        111
+                    ],
+                    "all_points_y": [
+                        38,
+                        3,
+                        38,
+                        80,
+                        97,
+                        103,
+                        97,
+                        74,
+                        45
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        129,
+                        102,
+                        98,
+                        105,
+                        103,
+                        108,
+                        116,
+                        118,
+                        120,
+                        120
+                    ],
+                    "all_points_y": [
+                        107,
+                        104,
+                        124,
+                        127,
+                        134,
+                        144,
+                        146,
+                        140,
+                        126,
+                        124
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        173,
+                        178,
+                        191,
+                        234,
+                        255,
+                        255,
+                        249,
+                        220,
+                        216,
+                        201
+                    ],
+                    "all_points_y": [
+                        104,
+                        120,
+                        125,
+                        132,
+                        141,
+                        37,
+                        41,
+                        76,
+                        81,
+                        89
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        186,
+                        159,
+                        166,
+                        171,
+                        184,
+                        231,
+                        247,
+                        253,
+                        244
+                    ],
+                    "all_points_y": [
+                        131,
+                        153,
+                        191,
+                        202,
+                        204,
+                        226,
+                        203,
+                        152,
+                        149
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1613003304_2667.jpg84687": {
+        "filename": "1613003304_2667.jpg",
+        "size": 84687,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        93,
+                        174,
+                        169,
+                        161,
+                        149,
+                        141,
+                        123,
+                        93,
+                        89,
+                        88
+                    ],
+                    "all_points_y": [
+                        105,
+                        127,
+                        144,
+                        151,
+                        157,
+                        160,
+                        162,
+                        139,
+                        134,
+                        107
+                    ]
+                },
+                "region_attributes": {
+                    "names": "arka_far_hasar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1613254757_1899.jpg53056": {
+        "filename": "1613254757_1899.jpg",
+        "size": 53056,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        56,
+                        63,
+                        76,
+                        86,
+                        88,
+                        81,
+                        76,
+                        74,
+                        73,
+                        72,
+                        69,
+                        66,
+                        65,
+                        59,
+                        53,
+                        46,
+                        44,
+                        43,
+                        40,
+                        39,
+                        43,
+                        50,
+                        52
+                    ],
+                    "all_points_y": [
+                        90,
+                        95,
+                        97,
+                        110,
+                        112,
+                        120,
+                        117,
+                        113,
+                        109,
+                        107,
+                        106,
+                        106,
+                        106,
+                        106,
+                        106,
+                        105,
+                        105,
+                        106,
+                        105,
+                        98,
+                        100,
+                        99,
+                        94
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        89,
+                        93,
+                        103,
+                        121,
+                        142,
+                        151,
+                        156,
+                        157,
+                        157,
+                        160,
+                        160,
+                        161,
+                        159,
+                        153,
+                        153,
+                        149,
+                        144,
+                        134,
+                        123,
+                        114,
+                        107,
+                        106,
+                        106,
+                        106,
+                        103,
+                        97,
+                        96,
+                        96,
+                        95,
+                        95,
+                        95
+                    ],
+                    "all_points_y": [
+                        127,
+                        141,
+                        147,
+                        152,
+                        154,
+                        156,
+                        156,
+                        153,
+                        151,
+                        147,
+                        143,
+                        138,
+                        136,
+                        139,
+                        142,
+                        145,
+                        145,
+                        142,
+                        139,
+                        138,
+                        135,
+                        138,
+                        140,
+                        140,
+                        140,
+                        140,
+                        137,
+                        135,
+                        133,
+                        129,
+                        127
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        80,
+                        83,
+                        83,
+                        83,
+                        82,
+                        80,
+                        79,
+                        77,
+                        74,
+                        73,
+                        72,
+                        73,
+                        74
+                    ],
+                    "all_points_y": [
+                        123,
+                        122,
+                        125,
+                        129,
+                        132,
+                        136,
+                        142,
+                        145,
+                        146,
+                        144,
+                        142,
+                        139,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1615082766_3480.jpg19572": {
+        "filename": "1615082766_3480.jpg",
+        "size": 19572,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        113,
+                        143,
+                        138,
+                        105
+                    ],
+                    "all_points_y": [
+                        71,
+                        75,
+                        161,
+                        158
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kayip"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        144,
+                        123,
+                        126,
+                        138,
+                        141,
+                        146,
+                        146,
+                        147,
+                        147
+                    ],
+                    "all_points_y": [
+                        161,
+                        170,
+                        184,
+                        193,
+                        191,
+                        181,
+                        176,
+                        165,
+                        164
+                    ]
+                },
+                "region_attributes": {
+                    "names": "astar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1621813064_3111.jpg30661": {
+        "filename": "1621813064_3111.jpg",
+        "size": 30661,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        113,
+                        117,
+                        172,
+                        168
+                    ],
+                    "all_points_y": [
+                        122,
+                        131,
+                        123,
+                        114
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1629332572_3619.jpg88528": {
+        "filename": "1629332572_3619.jpg",
+        "size": 88528,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        41,
+                        52,
+                        151,
+                        177,
+                        204,
+                        212,
+                        201,
+                        184,
+                        170
+                    ],
+                    "all_points_y": [
+                        130,
+                        137,
+                        119,
+                        119,
+                        112,
+                        109,
+                        105,
+                        108,
+                        108
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1630267597_6245.jpg29540": {
+        "filename": "1630267597_6245.jpg",
+        "size": 29540,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        109,
+                        87,
+                        91,
+                        100,
+                        124,
+                        153,
+                        169,
+                        177,
+                        187,
+                        191,
+                        192,
+                        180,
+                        169,
+                        157,
+                        145,
+                        138,
+                        131
+                    ],
+                    "all_points_y": [
+                        83,
+                        134,
+                        146,
+                        149,
+                        134,
+                        114,
+                        98,
+                        88,
+                        70,
+                        54,
+                        40,
+                        34,
+                        33,
+                        35,
+                        40,
+                        43,
+                        52
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        29,
+                        39,
+                        98,
+                        88,
+                        78
+                    ],
+                    "all_points_y": [
+                        219,
+                        221,
+                        142,
+                        138,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1636115137_12878.jpg13828": {
+        "filename": "1636115137_12878.jpg",
+        "size": 13828,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        39,
+                        138,
+                        163,
+                        83,
+                        41,
+                        40
+                    ],
+                    "all_points_y": [
+                        139,
+                        159,
+                        93,
+                        90,
+                        125,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        135,
+                        40,
+                        39,
+                        60,
+                        141
+                    ],
+                    "all_points_y": [
+                        160,
+                        142,
+                        240,
+                        239,
+                        161
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        74,
+                        111,
+                        122,
+                        133,
+                        162,
+                        162,
+                        164,
+                        161,
+                        161,
+                        166,
+                        167,
+                        169,
+                        170,
+                        168,
+                        161,
+                        160,
+                        157,
+                        155,
+                        155
+                    ],
+                    "all_points_y": [
+                        230,
+                        247,
+                        246,
+                        221,
+                        210,
+                        214,
+                        225,
+                        230,
+                        230,
+                        221,
+                        216,
+                        208,
+                        198,
+                        187,
+                        158,
+                        156,
+                        154,
+                        154,
+                        154
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        159,
+                        152,
+                        148,
+                        144,
+                        142,
+                        142,
+                        142,
+                        142,
+                        151,
+                        157,
+                        161,
+                        162,
+                        163,
+                        162,
+                        160,
+                        159,
+                        163,
+                        163,
+                        165,
+                        165,
+                        165
+                    ],
+                    "all_points_y": [
+                        114,
+                        129,
+                        137,
+                        144,
+                        149,
+                        154,
+                        157,
+                        159,
+                        157,
+                        153,
+                        152,
+                        153,
+                        152,
+                        143,
+                        142,
+                        143,
+                        137,
+                        133,
+                        118,
+                        116,
+                        116
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1638035491_2199.jpg37616": {
+        "filename": "1638035491_2199.jpg",
+        "size": 37616,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        145,
+                        161,
+                        163,
+                        171,
+                        172,
+                        172,
+                        168,
+                        158,
+                        156,
+                        147,
+                        149,
+                        148,
+                        148,
+                        128,
+                        123
+                    ],
+                    "all_points_y": [
+                        26,
+                        8,
+                        14,
+                        41,
+                        45,
+                        46,
+                        36,
+                        27,
+                        26,
+                        63,
+                        95,
+                        98,
+                        102,
+                        116,
+                        106
+                    ]
+                },
+                "region_attributes": {
+                    "names": "on_far_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        119,
+                        84,
+                        73,
+                        65,
+                        40,
+                        14,
+                        5,
+                        2,
+                        3,
+                        83,
+                        101,
+                        119,
+                        134,
+                        142,
+                        149,
+                        177,
+                        177,
+                        179,
+                        179,
+                        179,
+                        180,
+                        178,
+                        177,
+                        176,
+                        170,
+                        170,
+                        161,
+                        152,
+                        150,
+                        151,
+                        126,
+                        122,
+                        121,
+                        121,
+                        120
+                    ],
+                    "all_points_y": [
+                        103,
+                        134,
+                        136,
+                        131,
+                        136,
+                        143,
+                        145,
+                        225,
+                        253,
+                        250,
+                        251,
+                        249,
+                        248,
+                        246,
+                        245,
+                        192,
+                        189,
+                        180,
+                        146,
+                        143,
+                        125,
+                        101,
+                        97,
+                        77,
+                        56,
+                        43,
+                        34,
+                        64,
+                        73,
+                        95,
+                        121,
+                        109,
+                        107,
+                        106,
+                        105
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1639137463_12217.jpg63014": {
+        "filename": "1639137463_12217.jpg",
+        "size": 63014,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        65,
+                        65,
+                        71,
+                        158,
+                        164,
+                        128,
+                        124,
+                        131,
+                        133,
+                        136,
+                        141,
+                        145,
+                        142,
+                        130,
+                        116,
+                        107,
+                        105,
+                        109,
+                        114,
+                        126,
+                        142,
+                        146,
+                        150,
+                        165,
+                        185,
+                        205,
+                        246,
+                        253,
+                        255,
+                        188,
+                        66
+                    ],
+                    "all_points_y": [
+                        40,
+                        183,
+                        193,
+                        192,
+                        190,
+                        182,
+                        177,
+                        166,
+                        158,
+                        152,
+                        149,
+                        148,
+                        144,
+                        142,
+                        139,
+                        134,
+                        131,
+                        129,
+                        130,
+                        134,
+                        137,
+                        136,
+                        137,
+                        143,
+                        141,
+                        140,
+                        139,
+                        139,
+                        130,
+                        51,
+                        41
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1639416230_1711.jpg56718": {
+        "filename": "1639416230_1711.jpg",
+        "size": 56718,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        46,
+                        79,
+                        80,
+                        52,
+                        43,
+                        41
+                    ],
+                    "all_points_y": [
+                        117,
+                        131,
+                        155,
+                        145,
+                        139,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        46,
+                        44,
+                        42,
+                        39,
+                        40,
+                        42,
+                        47,
+                        50,
+                        58,
+                        67,
+                        81,
+                        95,
+                        92,
+                        87,
+                        75,
+                        44,
+                        40,
+                        34,
+                        32,
+                        28,
+                        27,
+                        23,
+                        25,
+                        36,
+                        36,
+                        32
+                    ],
+                    "all_points_y": [
+                        89,
+                        114,
+                        125,
+                        136,
+                        140,
+                        144,
+                        147,
+                        152,
+                        160,
+                        164,
+                        169,
+                        175,
+                        180,
+                        179,
+                        178,
+                        168,
+                        166,
+                        164,
+                        163,
+                        160,
+                        157,
+                        136,
+                        126,
+                        138,
+                        138,
+                        100
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1641408126_2062.jpg11804": {
+        "filename": "1641408126_2062.jpg",
+        "size": 11804,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        91,
+                        99,
+                        127,
+                        154,
+                        178,
+                        197,
+                        198
+                    ],
+                    "all_points_y": [
+                        1,
+                        12,
+                        19,
+                        23,
+                        24,
+                        22,
+                        0
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        110,
+                        108,
+                        136,
+                        178,
+                        199,
+                        252,
+                        234,
+                        218
+                    ],
+                    "all_points_y": [
+                        110,
+                        126,
+                        128,
+                        126,
+                        123,
+                        110,
+                        106,
+                        107
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1646376832_2522.jpg51473": {
+        "filename": "1646376832_2522.jpg",
+        "size": 51473,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1,
+                        59,
+                        68,
+                        69,
+                        120,
+                        144,
+                        162,
+                        167,
+                        242,
+                        255,
+                        252,
+                        220,
+                        180,
+                        161,
+                        106,
+                        64,
+                        58,
+                        10,
+                        1
+                    ],
+                    "all_points_y": [
+                        2,
+                        92,
+                        112,
+                        118,
+                        137,
+                        149,
+                        155,
+                        159,
+                        143,
+                        131,
+                        96,
+                        66,
+                        35,
+                        27,
+                        12,
+                        3,
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        19,
+                        58,
+                        121,
+                        139,
+                        156,
+                        130,
+                        112,
+                        98
+                    ],
+                    "all_points_y": [
+                        98,
+                        164,
+                        205,
+                        207,
+                        198,
+                        145,
+                        139,
+                        131
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        3,
+                        24,
+                        29,
+                        31,
+                        26,
+                        20,
+                        17,
+                        18,
+                        25,
+                        39,
+                        48,
+                        49,
+                        45,
+                        42,
+                        15,
+                        0
+                    ],
+                    "all_points_y": [
+                        132,
+                        138,
+                        138,
+                        137,
+                        115,
+                        106,
+                        99,
+                        98,
+                        98,
+                        107,
+                        111,
+                        111,
+                        92,
+                        76,
+                        28,
+                        9
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1,
+                        1,
+                        140,
+                        184,
+                        166,
+                        145,
+                        129,
+                        109,
+                        90,
+                        53
+                    ],
+                    "all_points_y": [
+                        156,
+                        254,
+                        254,
+                        254,
+                        204,
+                        207,
+                        211,
+                        210,
+                        204,
+                        177
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1652390101_3641.jpg92775": {
+        "filename": "1652390101_3641.jpg",
+        "size": 92775,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        84,
+                        109,
+                        132,
+                        171,
+                        180,
+                        177,
+                        162,
+                        148,
+                        131,
+                        115,
+                        98,
+                        86,
+                        83
+                    ],
+                    "all_points_y": [
+                        130,
+                        130,
+                        109,
+                        62,
+                        61,
+                        67,
+                        86,
+                        103,
+                        120,
+                        135,
+                        142,
+                        139,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1654841912_5056.jpg26213": {
+        "filename": "1654841912_5056.jpg",
+        "size": 26213,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        123,
+                        114,
+                        109,
+                        110,
+                        148,
+                        164,
+                        172,
+                        185,
+                        191,
+                        200,
+                        209,
+                        203,
+                        171,
+                        158,
+                        152,
+                        128,
+                        121
+                    ],
+                    "all_points_y": [
+                        47,
+                        77,
+                        109,
+                        113,
+                        132,
+                        155,
+                        174,
+                        191,
+                        206,
+                        188,
+                        165,
+                        110,
+                        66,
+                        44,
+                        35,
+                        34,
+                        41
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        108,
+                        120,
+                        122,
+                        120,
+                        118,
+                        109,
+                        111,
+                        107,
+                        105,
+                        96,
+                        88,
+                        77,
+                        73,
+                        65,
+                        59,
+                        62,
+                        69,
+                        70,
+                        79,
+                        82,
+                        87,
+                        88
+                    ],
+                    "all_points_y": [
+                        28,
+                        27,
+                        39,
+                        47,
+                        62,
+                        84,
+                        89,
+                        105,
+                        112,
+                        116,
+                        121,
+                        129,
+                        135,
+                        141,
+                        139,
+                        107,
+                        92,
+                        82,
+                        72,
+                        63,
+                        55,
+                        52
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        2,
+                        3,
+                        13,
+                        31,
+                        38,
+                        40,
+                        44,
+                        45,
+                        45,
+                        42,
+                        40,
+                        21,
+                        5
+                    ],
+                    "all_points_y": [
+                        77,
+                        136,
+                        165,
+                        193,
+                        204,
+                        200,
+                        190,
+                        177,
+                        155,
+                        136,
+                        127,
+                        97,
+                        76
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1660661656_9011.jpg45526": {
+        "filename": "1660661656_9011.jpg",
+        "size": 45526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        192,
+                        186,
+                        165,
+                        131,
+                        111,
+                        98,
+                        87,
+                        91,
+                        105,
+                        117,
+                        102,
+                        91,
+                        118,
+                        120,
+                        133,
+                        149,
+                        162
+                    ],
+                    "all_points_y": [
+                        71,
+                        153,
+                        164,
+                        177,
+                        186,
+                        192,
+                        195,
+                        186,
+                        163,
+                        151,
+                        152,
+                        157,
+                        120,
+                        116,
+                        105,
+                        89,
+                        87
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1663307536_1909.jpg46874": {
+        "filename": "1663307536_1909.jpg",
+        "size": 46874,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        50,
+                        66,
+                        97,
+                        147,
+                        110,
+                        92
+                    ],
+                    "all_points_y": [
+                        60,
+                        99,
+                        87,
+                        60,
+                        35,
+                        38
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        70,
+                        71,
+                        83,
+                        120,
+                        151,
+                        182,
+                        205,
+                        206,
+                        195,
+                        178,
+                        159,
+                        150
+                    ],
+                    "all_points_y": [
+                        100,
+                        109,
+                        115,
+                        131,
+                        130,
+                        108,
+                        82,
+                        71,
+                        65,
+                        60,
+                        58,
+                        59
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        104,
+                        96,
+                        98,
+                        103,
+                        106,
+                        107,
+                        113,
+                        116,
+                        120,
+                        122,
+                        128,
+                        141,
+                        151,
+                        160,
+                        178,
+                        183,
+                        183,
+                        186,
+                        187,
+                        192,
+                        197,
+                        207,
+                        211,
+                        219,
+                        220,
+                        216,
+                        214,
+                        213,
+                        210,
+                        219,
+                        225,
+                        226,
+                        217,
+                        203,
+                        187,
+                        179,
+                        164,
+                        161,
+                        154,
+                        153,
+                        149,
+                        134,
+                        128,
+                        121,
+                        107
+                    ],
+                    "all_points_y": [
+                        175,
+                        189,
+                        197,
+                        204,
+                        208,
+                        213,
+                        229,
+                        237,
+                        243,
+                        246,
+                        248,
+                        249,
+                        245,
+                        239,
+                        235,
+                        228,
+                        222,
+                        208,
+                        203,
+                        203,
+                        203,
+                        201,
+                        212,
+                        213,
+                        208,
+                        200,
+                        188,
+                        180,
+                        168,
+                        148,
+                        138,
+                        134,
+                        128,
+                        144,
+                        161,
+                        169,
+                        170,
+                        168,
+                        168,
+                        174,
+                        177,
+                        180,
+                        181,
+                        180,
+                        177
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        53,
+                        50,
+                        50,
+                        47,
+                        43,
+                        41,
+                        40,
+                        40,
+                        40,
+                        38,
+                        34,
+                        32,
+                        31,
+                        23,
+                        38,
+                        39,
+                        45,
+                        47
+                    ],
+                    "all_points_y": [
+                        103,
+                        108,
+                        112,
+                        121,
+                        121,
+                        121,
+                        118,
+                        112,
+                        107,
+                        107,
+                        107,
+                        107,
+                        107,
+                        107,
+                        97,
+                        97,
+                        98,
+                        98
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        74,
+                        123,
+                        121,
+                        117,
+                        109,
+                        101,
+                        98,
+                        98,
+                        87,
+                        81,
+                        75,
+                        66,
+                        64,
+                        61
+                    ],
+                    "all_points_y": [
+                        115,
+                        133,
+                        138,
+                        144,
+                        148,
+                        151,
+                        154,
+                        155,
+                        151,
+                        147,
+                        142,
+                        138,
+                        138,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1668081670_12219.jpg73033": {
+        "filename": "1668081670_12219.jpg",
+        "size": 73033,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        102,
+                        89,
+                        89,
+                        86,
+                        83,
+                        81,
+                        79,
+                        80,
+                        82,
+                        84,
+                        92,
+                        104,
+                        109,
+                        110,
+                        113,
+                        120,
+                        130,
+                        133,
+                        135,
+                        137,
+                        139,
+                        136,
+                        132,
+                        118,
+                        113,
+                        111,
+                        111,
+                        108
+                    ],
+                    "all_points_y": [
+                        172,
+                        179,
+                        182,
+                        185,
+                        188,
+                        191,
+                        198,
+                        200,
+                        201,
+                        200,
+                        195,
+                        195,
+                        192,
+                        191,
+                        194,
+                        197,
+                        197,
+                        196,
+                        194,
+                        187,
+                        179,
+                        168,
+                        167,
+                        168,
+                        169,
+                        170,
+                        175,
+                        177
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        32,
+                        29,
+                        43,
+                        72,
+                        94,
+                        118,
+                        131,
+                        142,
+                        159,
+                        169,
+                        168,
+                        163,
+                        148,
+                        139,
+                        134,
+                        115,
+                        113,
+                        95,
+                        86,
+                        84,
+                        83,
+                        65,
+                        53,
+                        38,
+                        35,
+                        28
+                    ],
+                    "all_points_y": [
+                        101,
+                        117,
+                        135,
+                        151,
+                        163,
+                        158,
+                        145,
+                        132,
+                        125,
+                        115,
+                        108,
+                        95,
+                        87,
+                        82,
+                        82,
+                        83,
+                        82,
+                        76,
+                        72,
+                        70,
+                        68,
+                        74,
+                        80,
+                        82,
+                        91,
+                        101
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        177,
+                        151,
+                        146,
+                        145,
+                        146,
+                        147,
+                        158,
+                        160,
+                        162,
+                        161,
+                        162,
+                        162,
+                        169,
+                        180,
+                        185
+                    ],
+                    "all_points_y": [
+                        108,
+                        137,
+                        145,
+                        153,
+                        164,
+                        177,
+                        187,
+                        187,
+                        185,
+                        173,
+                        172,
+                        171,
+                        167,
+                        164,
+                        166
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        23,
+                        55,
+                        61,
+                        68,
+                        88,
+                        96,
+                        115,
+                        126,
+                        140,
+                        146,
+                        148,
+                        148,
+                        134,
+                        98,
+                        92,
+                        91,
+                        81,
+                        70,
+                        69,
+                        66,
+                        23,
+                        22
+                    ],
+                    "all_points_y": [
+                        174,
+                        205,
+                        210,
+                        218,
+                        228,
+                        231,
+                        232,
+                        225,
+                        211,
+                        194,
+                        184,
+                        182,
+                        194,
+                        205,
+                        207,
+                        206,
+                        203,
+                        192,
+                        181,
+                        177,
+                        142,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1674343421_571.jpg56029": {
+        "filename": "1674343421_571.jpg",
+        "size": 56029,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        43,
+                        74,
+                        124,
+                        90,
+                        112,
+                        118,
+                        125,
+                        182,
+                        132,
+                        59,
+                        45
+                    ],
+                    "all_points_y": [
+                        21,
+                        93,
+                        82,
+                        63,
+                        58,
+                        54,
+                        60,
+                        46,
+                        11,
+                        16,
+                        19
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        74,
+                        95,
+                        120,
+                        122,
+                        140,
+                        166,
+                        185,
+                        198,
+                        225,
+                        236,
+                        250,
+                        253,
+                        254,
+                        252,
+                        218,
+                        218,
+                        207,
+                        200,
+                        191,
+                        173,
+                        155,
+                        135,
+                        129,
+                        86
+                    ],
+                    "all_points_y": [
+                        97,
+                        123,
+                        126,
+                        123,
+                        127,
+                        138,
+                        146,
+                        155,
+                        155,
+                        147,
+                        138,
+                        136,
+                        135,
+                        91,
+                        62,
+                        47,
+                        49,
+                        50,
+                        57,
+                        62,
+                        70,
+                        77,
+                        80,
+                        90
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1686259981_3110.jpg28867": {
+        "filename": "1686259981_3110.jpg",
+        "size": 28867,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        113,
+                        118,
+                        176,
+                        177,
+                        177,
+                        175
+                    ],
+                    "all_points_y": [
+                        102,
+                        114,
+                        98,
+                        96,
+                        89,
+                        87
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1689319801_2085.jpg35739": {
+        "filename": "1689319801_2085.jpg",
+        "size": 35739,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        113,
+                        133,
+                        153,
+                        156,
+                        158,
+                        141,
+                        135,
+                        118,
+                        104,
+                        104
+                    ],
+                    "all_points_y": [
+                        174,
+                        176,
+                        177,
+                        172,
+                        157,
+                        139,
+                        137,
+                        132,
+                        159,
+                        162
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1691403637_14490.jpg9963": {
+        "filename": "1691403637_14490.jpg",
+        "size": 9963,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        130,
+                        131,
+                        124,
+                        125,
+                        165,
+                        188,
+                        190,
+                        190,
+                        189,
+                        189
+                    ],
+                    "all_points_y": [
+                        93,
+                        103,
+                        104,
+                        112,
+                        117,
+                        114,
+                        114,
+                        100,
+                        95,
+                        93
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1692146867_2352.jpg60428": {
+        "filename": "1692146867_2352.jpg",
+        "size": 60428,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "1694659465_10641.jpg6057": {
+        "filename": "1694659465_10641.jpg",
+        "size": 6057,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        149,
+                        53,
+                        64,
+                        82,
+                        122,
+                        161,
+                        207,
+                        240,
+                        240,
+                        223,
+                        187,
+                        160,
+                        157
+                    ],
+                    "all_points_y": [
+                        76,
+                        141,
+                        168,
+                        189,
+                        185,
+                        179,
+                        162,
+                        146,
+                        128,
+                        86,
+                        80,
+                        70,
+                        69
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cam_catlagi"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1695540021_12161.jpg8168": {
+        "filename": "1695540021_12161.jpg",
+        "size": 8168,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        108,
+                        103,
+                        102,
+                        107,
+                        111,
+                        112,
+                        112,
+                        115,
+                        119,
+                        122,
+                        123,
+                        141,
+                        158,
+                        177,
+                        169,
+                        149,
+                        139,
+                        131,
+                        117,
+                        111,
+                        105
+                    ],
+                    "all_points_y": [
+                        93,
+                        105,
+                        122,
+                        132,
+                        117,
+                        116,
+                        140,
+                        149,
+                        151,
+                        138,
+                        118,
+                        116,
+                        111,
+                        106,
+                        92,
+                        88,
+                        84,
+                        79,
+                        79,
+                        85,
+                        87
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1696645785_12.jpg52268": {
+        "filename": "1696645785_12.jpg",
+        "size": 52268,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        11,
+                        37,
+                        68,
+                        92,
+                        127,
+                        166,
+                        209,
+                        221,
+                        215,
+                        192,
+                        159,
+                        123,
+                        92,
+                        77,
+                        69,
+                        42,
+                        23,
+                        15,
+                        10,
+                        10
+                    ],
+                    "all_points_y": [
+                        74,
+                        96,
+                        101,
+                        115,
+                        125,
+                        129,
+                        130,
+                        132,
+                        124,
+                        120,
+                        110,
+                        103,
+                        95,
+                        88,
+                        79,
+                        77,
+                        74,
+                        71,
+                        69,
+                        73
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1699360827_12021.jpg35965": {
+        "filename": "1699360827_12021.jpg",
+        "size": 35965,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        30,
+                        115,
+                        124,
+                        109,
+                        97,
+                        83,
+                        73,
+                        63,
+                        51,
+                        45,
+                        28,
+                        20
+                    ],
+                    "all_points_y": [
+                        97,
+                        87,
+                        89,
+                        101,
+                        119,
+                        125,
+                        129,
+                        128,
+                        127,
+                        125,
+                        112,
+                        96
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        149,
+                        241,
+                        242,
+                        239,
+                        235,
+                        231,
+                        228,
+                        226,
+                        223,
+                        208,
+                        205,
+                        210,
+                        200,
+                        192,
+                        167,
+                        155,
+                        135,
+                        131,
+                        118,
+                        109,
+                        91
+                    ],
+                    "all_points_y": [
+                        85,
+                        83,
+                        73,
+                        73,
+                        100,
+                        135,
+                        153,
+                        173,
+                        186,
+                        194,
+                        197,
+                        195,
+                        160,
+                        145,
+                        132,
+                        133,
+                        133,
+                        145,
+                        151,
+                        147,
+                        150,
+                        124
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1700142494_4938.jpg82937": {
+        "filename": "1700142494_4938.jpg",
+        "size": 82937,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        141,
+                        145,
+                        176,
+                        177,
+                        173,
+                        164,
+                        159,
+                        149,
+                        141,
+                        137,
+                        134,
+                        129
+                    ],
+                    "all_points_y": [
+                        59,
+                        59,
+                        63,
+                        63,
+                        53,
+                        44,
+                        42,
+                        41,
+                        44,
+                        47,
+                        49,
+                        51,
+                        54
+                    ]
+                },
+                "region_attributes": {
+                    "names": "airbag"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        177,
+                        192,
+                        201,
+                        215,
+                        217,
+                        217,
+                        215,
+                        206,
+                        195,
+                        185,
+                        181,
+                        172,
+                        171
+                    ],
+                    "all_points_y": [
+                        82,
+                        82,
+                        65,
+                        70,
+                        80,
+                        87,
+                        90,
+                        95,
+                        95,
+                        95,
+                        95,
+                        91,
+                        91
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        147,
+                        160,
+                        162,
+                        171,
+                        171,
+                        167,
+                        154,
+                        152,
+                        150,
+                        143,
+                        138
+                    ],
+                    "all_points_y": [
+                        89,
+                        88,
+                        96,
+                        97,
+                        111,
+                        113,
+                        113,
+                        112,
+                        108,
+                        99,
+                        96
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        32,
+                        26,
+                        26,
+                        27,
+                        27,
+                        34,
+                        45,
+                        53,
+                        64,
+                        84,
+                        85,
+                        85,
+                        94,
+                        114,
+                        129,
+                        137,
+                        158,
+                        168,
+                        166,
+                        174,
+                        162,
+                        149,
+                        141,
+                        137,
+                        129,
+                        105,
+                        73,
+                        69,
+                        67,
+                        67
+                    ],
+                    "all_points_y": [
+                        109,
+                        131,
+                        149,
+                        165,
+                        176,
+                        186,
+                        188,
+                        188,
+                        180,
+                        179,
+                        183,
+                        188,
+                        171,
+                        153,
+                        153,
+                        154,
+                        177,
+                        183,
+                        173,
+                        122,
+                        120,
+                        118,
+                        112,
+                        104,
+                        95,
+                        95,
+                        98,
+                        114,
+                        114,
+                        112
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1701797811_12172.jpg24805": {
+        "filename": "1701797811_12172.jpg",
+        "size": 24805,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        143,
+                        142,
+                        112,
+                        54,
+                        38,
+                        38,
+                        40,
+                        60,
+                        82,
+                        106,
+                        152,
+                        186,
+                        204,
+                        183
+                    ],
+                    "all_points_y": [
+                        94,
+                        56,
+                        55,
+                        103,
+                        131,
+                        143,
+                        159,
+                        171,
+                        178,
+                        179,
+                        171,
+                        158,
+                        140,
+                        112
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1703260482_12525.jpg63167": {
+        "filename": "1703260482_12525.jpg",
+        "size": 63167,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        24,
+                        90,
+                        93,
+                        83,
+                        46,
+                        37,
+                        28,
+                        28
+                    ],
+                    "all_points_y": [
+                        117,
+                        98,
+                        111,
+                        131,
+                        146,
+                        146,
+                        139,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "names": "on_far_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        88,
+                        91,
+                        100,
+                        109,
+                        117,
+                        121,
+                        125,
+                        127,
+                        127,
+                        121,
+                        115,
+                        113,
+                        106,
+                        104,
+                        93,
+                        92,
+                        92,
+                        91
+                    ],
+                    "all_points_y": [
+                        15,
+                        23,
+                        25,
+                        22,
+                        20,
+                        17,
+                        16,
+                        15,
+                        13,
+                        5,
+                        7,
+                        7,
+                        1,
+                        0,
+                        2,
+                        5,
+                        7,
+                        7
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        126,
+                        167,
+                        174,
+                        174,
+                        171,
+                        170,
+                        169,
+                        152,
+                        134,
+                        127
+                    ],
+                    "all_points_y": [
+                        107,
+                        112,
+                        107,
+                        99,
+                        89,
+                        59,
+                        58,
+                        33,
+                        46,
+                        88
+                    ]
+                },
+                "region_attributes": {
+                    "names": "gocuk"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        118,
+                        114,
+                        102,
+                        89,
+                        81,
+                        78,
+                        77,
+                        77,
+                        78,
+                        85,
+                        90,
+                        95,
+                        101,
+                        110,
+                        113,
+                        118,
+                        122,
+                        122,
+                        122,
+                        122,
+                        128,
+                        135,
+                        150,
+                        159,
+                        177,
+                        179,
+                        173,
+                        174,
+                        173,
+                        172,
+                        164,
+                        138,
+                        130,
+                        118,
+                        112,
+                        111
+                    ],
+                    "all_points_y": [
+                        182,
+                        172,
+                        176,
+                        176,
+                        176,
+                        167,
+                        157,
+                        150,
+                        140,
+                        134,
+                        122,
+                        109,
+                        101,
+                        98,
+                        96,
+                        92,
+                        90,
+                        93,
+                        100,
+                        106,
+                        111,
+                        111,
+                        110,
+                        112,
+                        114,
+                        133,
+                        154,
+                        164,
+                        175,
+                        181,
+                        171,
+                        140,
+                        146,
+                        164,
+                        173,
+                        173
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        180,
+                        202,
+                        222,
+                        238,
+                        249,
+                        249,
+                        249,
+                        247,
+                        241,
+                        231,
+                        209,
+                        201,
+                        192,
+                        185,
+                        177,
+                        175,
+                        176
+                    ],
+                    "all_points_y": [
+                        120,
+                        107,
+                        101,
+                        86,
+                        81,
+                        84,
+                        95,
+                        99,
+                        104,
+                        115,
+                        146,
+                        152,
+                        165,
+                        165,
+                        167,
+                        163,
+                        160
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1703997260_6025.jpg75884": {
+        "filename": "1703997260_6025.jpg",
+        "size": 75884,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        126,
+                        160,
+                        184,
+                        184,
+                        183,
+                        179,
+                        165,
+                        153,
+                        111,
+                        99,
+                        90,
+                        86,
+                        75,
+                        74,
+                        81,
+                        82,
+                        83,
+                        85
+                    ],
+                    "all_points_y": [
+                        72,
+                        114,
+                        170,
+                        191,
+                        211,
+                        230,
+                        232,
+                        231,
+                        201,
+                        196,
+                        190,
+                        181,
+                        157,
+                        148,
+                        116,
+                        111,
+                        108,
+                        107
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1704388771_4236.jpg179334": {
+        "filename": "1704388771_4236.jpg",
+        "size": 179334,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        103,
+                        110,
+                        119,
+                        137,
+                        146,
+                        145,
+                        139,
+                        129,
+                        117,
+                        110,
+                        107,
+                        101,
+                        95,
+                        98
+                    ],
+                    "all_points_y": [
+                        103,
+                        111,
+                        119,
+                        126,
+                        129,
+                        132,
+                        131,
+                        129,
+                        127,
+                        125,
+                        126,
+                        120,
+                        118,
+                        108
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        95,
+                        99,
+                        100,
+                        101,
+                        100,
+                        98,
+                        97,
+                        96
+                    ],
+                    "all_points_y": [
+                        123,
+                        128,
+                        128,
+                        127,
+                        122,
+                        121,
+                        121,
+                        121
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        100,
+                        101,
+                        103,
+                        113,
+                        125,
+                        128,
+                        133,
+                        140,
+                        144,
+                        145,
+                        145,
+                        135,
+                        134,
+                        122,
+                        118,
+                        113,
+                        110
+                    ],
+                    "all_points_y": [
+                        147,
+                        153,
+                        156,
+                        166,
+                        171,
+                        173,
+                        174,
+                        171,
+                        165,
+                        162,
+                        161,
+                        165,
+                        165,
+                        160,
+                        158,
+                        156,
+                        152
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        101,
+                        108,
+                        116,
+                        126,
+                        132,
+                        142,
+                        133,
+                        123,
+                        125,
+                        117,
+                        115,
+                        114,
+                        103,
+                        103
+                    ],
+                    "all_points_y": [
+                        135,
+                        147,
+                        151,
+                        157,
+                        159,
+                        158,
+                        151,
+                        149,
+                        147,
+                        143,
+                        141,
+                        140,
+                        138,
+                        132
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        119,
+                        123,
+                        135,
+                        141,
+                        142,
+                        145,
+                        146,
+                        148,
+                        145,
+                        140,
+                        137
+                    ],
+                    "all_points_y": [
+                        132,
+                        138,
+                        145,
+                        146,
+                        150,
+                        152,
+                        152,
+                        148,
+                        141,
+                        138,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1704439861_3109.jpg32073": {
+        "filename": "1704439861_3109.jpg",
+        "size": 32073,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        130,
+                        141,
+                        191,
+                        187,
+                        146,
+                        134
+                    ],
+                    "all_points_y": [
+                        98,
+                        110,
+                        82,
+                        64,
+                        88,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1705278521_3817.jpg34569": {
+        "filename": "1705278521_3817.jpg",
+        "size": 34569,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "1707077348_11674.jpg9542": {
+        "filename": "1707077348_11674.jpg",
+        "size": 9542,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        57,
+                        126,
+                        133,
+                        142,
+                        144,
+                        144,
+                        139,
+                        125,
+                        110,
+                        95,
+                        90,
+                        89,
+                        78,
+                        78,
+                        71
+                    ],
+                    "all_points_y": [
+                        121,
+                        110,
+                        121,
+                        139,
+                        151,
+                        163,
+                        165,
+                        159,
+                        153,
+                        151,
+                        156,
+                        159,
+                        156,
+                        144,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1708143453_3640.jpg88131": {
+        "filename": "1708143453_3640.jpg",
+        "size": 88131,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        185,
+                        190,
+                        183,
+                        169,
+                        142,
+                        134,
+                        124,
+                        106,
+                        109,
+                        120
+                    ],
+                    "all_points_y": [
+                        72,
+                        74,
+                        84,
+                        102,
+                        129,
+                        145,
+                        163,
+                        170,
+                        160,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1710043928_4401.jpg6504": {
+        "filename": "1710043928_4401.jpg",
+        "size": 6504,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        183,
+                        172,
+                        177,
+                        184,
+                        192,
+                        206,
+                        209,
+                        222,
+                        223,
+                        217,
+                        192,
+                        185
+                    ],
+                    "all_points_y": [
+                        93,
+                        94,
+                        122,
+                        128,
+                        132,
+                        137,
+                        141,
+                        137,
+                        129,
+                        120,
+                        116,
+                        98
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kirik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1711418296_12227.jpg70792": {
+        "filename": "1711418296_12227.jpg",
+        "size": 70792,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        56,
+                        133,
+                        161,
+                        201,
+                        202,
+                        197,
+                        190,
+                        187,
+                        176,
+                        155,
+                        129,
+                        106,
+                        56,
+                        45,
+                        34,
+                        27,
+                        24,
+                        38,
+                        41,
+                        44
+                    ],
+                    "all_points_y": [
+                        60,
+                        64,
+                        56,
+                        62,
+                        82,
+                        91,
+                        114,
+                        131,
+                        138,
+                        142,
+                        144,
+                        141,
+                        132,
+                        125,
+                        120,
+                        114,
+                        105,
+                        69,
+                        68,
+                        65
+                    ]
+                },
+                "region_attributes": {
+                    "names": "kaput_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        186,
+                        177,
+                        179,
+                        180,
+                        182,
+                        186,
+                        192,
+                        195,
+                        199,
+                        203,
+                        208,
+                        211,
+                        214,
+                        215,
+                        213,
+                        212,
+                        207,
+                        203,
+                        199,
+                        196,
+                        191,
+                        190,
+                        190
+                    ],
+                    "all_points_y": [
+                        144,
+                        158,
+                        169,
+                        178,
+                        181,
+                        181,
+                        178,
+                        170,
+                        163,
+                        161,
+                        160,
+                        157,
+                        153,
+                        148,
+                        139,
+                        135,
+                        131,
+                        131,
+                        132,
+                        133,
+                        137,
+                        141,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "names": "on_far_hasar"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        25,
+                        28,
+                        29,
+                        29,
+                        33,
+                        23,
+                        27,
+                        24,
+                        22,
+                        25,
+                        28,
+                        46,
+                        52,
+                        74,
+                        102,
+                        132,
+                        165,
+                        180,
+                        193,
+                        199,
+                        218,
+                        222,
+                        221,
+                        199,
+                        181,
+                        179,
+                        177,
+                        177,
+                        176,
+                        177,
+                        178,
+                        178
+                    ],
+                    "all_points_y": [
+                        139,
+                        153,
+                        164,
+                        178,
+                        191,
+                        219,
+                        231,
+                        240,
+                        250,
+                        253,
+                        253,
+                        250,
+                        232,
+                        208,
+                        210,
+                        214,
+                        217,
+                        218,
+                        219,
+                        219,
+                        184,
+                        163,
+                        163,
+                        177,
+                        183,
+                        182,
+                        178,
+                        158,
+                        152,
+                        148,
+                        146,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1718673596_928.jpg52722": {
+        "filename": "1718673596_928.jpg",
+        "size": 52722,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        119,
+                        193,
+                        84,
+                        54,
+                        34,
+                        29,
+                        29,
+                        29,
+                        50
+                    ],
+                    "all_points_y": [
+                        43,
+                        72,
+                        217,
+                        232,
+                        201,
+                        169,
+                        138,
+                        124,
+                        111
+                    ]
+                },
+                "region_attributes": {
+                    "names": "cizik"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
